@@ -1,0 +1,34 @@
+*{
+  padding:0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 62.6%;
+}
+body{
+  background-color: #000000;
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-position: top;
+}
+.main{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  top: 50%;
+  font-size: 50rem;
+  left: 50%;
+  transform: translate(50%,50%);
+}
+.btn input{
+  width: 20rem;
+  height: 20rem;
+  color: red;
+  margin: .2rem;
+}
+input{
+  background: black;
+  color: white;
+  width: 85rem;
+}
+
