@@ -1,0 +1,12 @@
+@media(max-width: 700px){
+  *{
+    font-size: 25%;
+  }
+  input{
+    font-size: 5rem;
+  }
+  .not{
+    width: 82.5rem;
+    height: 15rem;
+  }
+}
